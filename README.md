@@ -1,6 +1,6 @@
 # Hey 👋, I am Meghana
 
-Iam a software engineer having experience in medical and automotive domain. Currently learning web development at [neogCamp](https://neog.camp/) and involved in making cool projects :) 
+Iam a software engineer having experience in ecommerce, medical and automotive domain. 
 
 Sneek peek into my blogs at [Blogs](https://hashnode.com/@meghanask)
 
