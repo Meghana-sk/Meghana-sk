@@ -1,12 +1,14 @@
 # Hey 👋, I am Meghana
 
-Iam a software engineer having experience in ecommerce, medical and automotive domain. 
+I am a software engineer having experience in ecommerce, medical and automotive domain. 
+You can have a glimpse of my work at [portfolio](https://sk-meghana.netlify.app/).
 
-Sneek peek into my blogs at [Blogs](https://hashnode.com/@meghanask)
+Sneek peek into my **blogs** at [Meghana-sk's blog](https://hashnode.com/@meghanask)
 
-Contact me on:
+Social profile:
 - [Twitter](https://twitter.com/meghana__sk)
 - [LinkedIn](https://www.linkedin.com/in/meghanask/)
+- [Leetcode](https://leetcode.com/meghana_sk/)
 
 😄 Pronouns: She/Her
 
