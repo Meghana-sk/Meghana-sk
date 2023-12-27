@@ -1,5 +1,5 @@
 # Hey 👋, I am Meghana
-I am a software engineer having experience in ecommerce, medical and automotive domain. 
+SOFTWARE ENGINEER
 
 You can have a glimpse of my `work` at [portfolio](https://sk-meghana.netlify.app/).
 
